@@ -1,84 +1,92 @@
-PRINCIPAL Y CANÓNICA
-https://www.foreverlivingasturias.com/ 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-SUPERIOR
-https://www.foreverlivingasturias.com/productos
+  <!-- PRINCIPAL Y CANÓNICA -->
+  <url>
+    <loc>https://www.foreverlivingasturias.com/</loc>
+    <priority>1.0</priority>
+  </url>
 
-SUPEDITADA A CATEGORÍA "SUPERIOR"
-https://www.foreverlivingasturias.com/productos/bebidas
-https://www.foreverlivingasturias.com/productos/colmena
-https://www.foreverlivingasturias.com/productos/nutricionales
-https://www.foreverlivingasturias.com/productos/controlpeso
-https://www.foreverlivingasturias.com/productos/cuidadopiel
-https://www.foreverlivingasturias.com/productos/higiene
-https://www.foreverlivingasturias.com/productos/facial
-https://www.foreverlivingasturias.com/haztedistribuidorfbo
+  <!-- SUPERIOR -->
+  <url>
+    <loc>https://www.foreverlivingasturias.com/productos</loc>
+    <priority>0.9</priority>
+  </url>
 
+  <!-- SUPEDITADA A CATEGORÍA SUPERIOR -->
+  <url><loc>https://www.foreverlivingasturias.com/productos/bebidas</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/colmena</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/controlpeso</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/cuidadopiel</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/higiene</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/facial</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/haztedistribuidorfbo</loc></url>
 
-PRODUCTOS POR CATEGORÍAS
+  <!-- PRODUCTOS POR CATEGORÍAS -->
 
-BEBIDAS
-https://www.foreverlivingasturias.com/productos/bebidas/aloeveragel
-https://www.foreverlivingasturias.com/productos/bebidas/berrynectar
-https://www.foreverlivingasturias.com/productos/bebidas/peaches
-https://www.foreverlivingasturias.com/productos/bebidas/arginina
-https://www.foreverlivingasturias.com/productos/bebidas/aloetea
-https://www.foreverlivingasturias.com/productos/bebidas/freedom
-https://www.foreverlivingasturias.com/productos/bebidas/aloemango
+  <!-- BEBIDAS -->
+  <url><loc>https://www.foreverlivingasturias.com/productos/bebidas/aloeveragel</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/bebidas/berrynectar</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/bebidas/peaches</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/bebidas/arginina</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/bebidas/aloetea</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/bebidas/freedom</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/bebidas/aloemango</loc></url>
 
-COLMENA
-https://www.foreverlivingasturias.com/productos/colmena/beepolen
-https://www.foreverlivingasturias.com/productos/colmena/beepropolis
-https://www.foreverlivingasturias.com/productos/colmena/royaljelly
+  <!-- COLMENA -->
+  <url><loc>https://www.foreverlivingasturias.com/productos/colmena/beepolen</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/colmena/beepropolis</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/colmena/royaljelly</loc></url>
 
-NUTRICIONALES
-https://www.foreverlivingasturias.com/productos/nutricionales/absorbentc
-https://www.foreverlivingasturias.com/productos/nutricionales/b12plus
-https://www.foreverlivingasturias.com/productos/nutricionales/activeha
-https://www.foreverlivingasturias.com/productos/nutricionales/articsea
-https://www.foreverlivingasturias.com/productos/nutricionales/supergreens
-https://www.foreverlivingasturias.com/productos/nutricionales/calcium
-https://www.foreverlivingasturias.com/productos/nutricionales/daily
-https://www.foreverlivingasturias.com/productos/nutricionales/vitolizemen
-https://www.foreverlivingasturias.com/productos/nutricionales/vitolizewoman
-https://www.foreverlivingasturias.com/productos/nutricionales/ajoytomillo
-https://www.foreverlivingasturias.com/productos/nutricionales/immublend
-https://www.foreverlivingasturias.com/productos/nutricionales/lyciumplus
-https://www.foreverlivingasturias.com/productos/nutricionales/kids
-https://www.foreverlivingasturias.com/productos/nutricionales/multimaca
-https://www.foreverlivingasturias.com/productos/nutricionales/move
-https://www.foreverlivingasturias.com/productos/nutricionales/activeprob
-https://www.foreverlivingasturias.com/productos/nutricionales/nutraq10
-https://www.foreverlivingasturias.com/productos/nutricionales/ivision
-https://www.foreverlivingasturias.com/productos/nutricionales/focus
+  <!-- NUTRICIONALES -->
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/absorbentc</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/b12plus</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/activeha</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/articsea</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/supergreens</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/calcium</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/daily</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/vitolizemen</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/vitolizewoman</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/ajoytomillo</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/immublend</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/lyciumplus</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/kids</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/multimaca</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/move</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/activeprob</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/nutraq10</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/ivision</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/nutricionales/focus</loc></url>
 
-CONTROL PESO
+  <!-- CONTROL PESO -->
+  <url><loc>https://www.foreverlivingasturias.com/productos/controlpeso/fiber</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/controlpeso/liteultra</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/controlpeso/garcinia</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/controlpeso/lean</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/controlpeso/therm</loc></url>
 
-https://www.foreverlivingasturias.com/productos/controlpeso/fiber
-https://www.foreverlivingasturias.com/productos/controlpeso/liteultra
-https://www.foreverlivingasturias.com/productos/controlpeso/garcinia
-https://www.foreverlivingasturias.com/productos/controlpeso/lean
-https://www.foreverlivingasturias.com/productos/controlpeso/therm
+  <!-- CUIDADO PIEL -->
+  <url><loc>https://www.foreverlivingasturias.com/productos/cuidadopiel/gelly</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/cuidadopiel/bodylotion</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/cuidadopiel/moisturizing</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/cuidadopiel/propolis</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/cuidadopiel/msm</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/cuidadopiel/sunscreen</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/cuidadopiel/first</loc></url>
 
-CUIDADO PIEL
+  <!-- HIGIENE -->
+  <url><loc>https://www.foreverlivingasturias.com/productos/higiene/evershield</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/higiene/liquidsoap</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/higiene/aftershave</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/higiene/dentifrico</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/higiene/lips</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/higiene/avocadosoap</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/higiene/jojobashampoo</loc></url>
+  <url><loc>https://www.foreverlivingasturias.com/productos/higiene/jojobaconditioner</loc></url>
 
-https://www.foreverlivingasturias.com/productos/cuidadopiel/gelly
-https://www.foreverlivingasturias.com/productos/cuidadopiel/bodylotion
-https://www.foreverlivingasturias.com/productos/cuidadopiel/moisturizing
-https://www.foreverlivingasturias.com/productos/cuidadopiel/propolis
-https://www.foreverlivingasturias.com/productos/cuidadopiel/msm
-https://www.foreverlivingasturias.com/productos/cuidadopiel/sunscreen
-https://www.foreverlivingasturias.com/productos/cuidadopiel/first
+</urlset>
 
-HIGIENE
-
-https://www.foreverlivingasturias.com/productos/higiene/evershield
-https://www.foreverlivingasturias.com/productos/higiene/liquidsoap
-https://www.foreverlivingasturias.com/productos/higiene/aftershave
-https://www.foreverlivingasturias.com/productos/higiene/dentifrico
-https://www.foreverlivingasturias.com/productos/higiene/lips
-https://www.foreverlivingasturias.com/productos/higiene/avocadosoap
-https://www.foreverlivingasturias.com/productos/higiene/jojobashampoo
-https://www.foreverlivingasturias.com/productos/higiene/jojobaconditioner
 
 
