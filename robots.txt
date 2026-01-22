@@ -39,5 +39,7 @@ User-agent: AspiegelBot
 Disallow: /
 
 # Sitemap centralizado
-Sitemap: https://sitemap.foreverlivingasturias.com/sitemap.xml
+Sitemap: https://foreverlivingasturias.com/sitemap.xml
+
+
 
