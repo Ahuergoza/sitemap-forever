@@ -38,8 +38,11 @@ Disallow: /
 User-agent: AspiegelBot
 Disallow: /
 
-# Sitemap centralizado
-Sitemap: https://foreverlivingasturias.com/sitemap.xml
+# Sitemap externo y estable
+Sitemap: https://sitemap.foreverlivingasturias.com/sitemap.xml
+
+
+
 
 
 
