@@ -87,12 +87,17 @@
   <url><loc>https://www.foreverlivingasturias.com/productos/higiene/avocadosoap</loc></url>
   <url><loc>https://www.foreverlivingasturias.com/productos/higiene/jojobashampoo</loc></url>
   <url><loc>https://www.foreverlivingasturias.com/productos/higiene/jojobaconditioner</loc></url>
-<url><loc>https://unete.foreverlivingasturias.com</loc></url>
-<url><loc>https://tienda.foreverlivingasturias.com</loc></url>
-  <url><loc>https://leticia.foreverlivingasturias.com</loc></url>
-  <url><loc>https://facebook.foreverlivingasturias.com</loc></url>
-  <url><loc>https://instagram.foreverlivingasturias.com</loc></url>
 
+
+
+
+  <!-- OTROS -->
+  <url><loc>https://www.foreverlivingasturias.com/comprar</loc></url>
+  
+
+  
+  <!-- SUBDOMINIOS EXTERNOS A HERRAMIENTAS -->
+  <url><loc>https://tienda.foreverlivingasturias.com</loc></url>
  <url><loc>https://basicosforever.foreverlivingasturias.com/</loc></url>
   <url><loc>https://bienvenido.foreverlivingasturias.com/</loc></url>
   <url><loc>https://catalogo.foreverlivingasturias.com/</loc></url>
@@ -111,3 +116,4 @@
   <url><loc>https://facebook.foreverlivingasturias.com/</loc></url>
   <url><loc>https://instagram.foreverlivingasturias.com/</loc></url>
   </urlset>
+
